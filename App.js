@@ -1,4 +1,4 @@
-```javascript
+
 import React from 'react';
 import Sidebar from './components/Sidebar';
 import PlayerBar from './components/PlayerBar';
@@ -17,6 +17,3 @@ function App() {
 }
 
 export default App;
-```
-
-###
